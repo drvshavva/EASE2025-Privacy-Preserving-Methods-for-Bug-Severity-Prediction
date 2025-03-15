@@ -1,0 +1,15 @@
+scikit-learn~=1.6.1
+imblearn~=0.0
+pandas~=2.2.3
+numpy~=1.26.4
+flwr~=1.15.2
+xgboost~=2.1.4
+datasets~=3.1.0
+scipy~=1.13.1
+torch~=2.3.1
+tqdm~=4.67.1
+transformers~=4.48.0
+matplotlib~=3.9.4
+seaborn~=0.13.2
+sdv
+ctgan
