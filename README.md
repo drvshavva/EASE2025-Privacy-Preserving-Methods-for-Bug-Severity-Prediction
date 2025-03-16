@@ -1,5 +1,5 @@
 # EASE2025 - Privacy-Preserving Methods for Bug Severity Prediction
-
+![ease2025-arch.png](img/ease2025-arch.png)
 ## Overview
 Bug severity prediction is a crucial task in software engineering, enabling more efficient resource allocation and prioritization in software maintenance. AI-based models significantly benefit from extensive datasets, but industrial applications face challenges due to data-sharing constraints and the limited availability of labeled data.
 
