@@ -26,7 +26,7 @@ We utilize two widely recognized software defect datasets in our study:
 3. **Evaluation Metrics**: The models are assessed based on classification metrics such as f1, kappa score, mcc and g-mean.
 
 ## Results
-
+![partitioning_comp.png](img/partitioning_comp.png)
 ![CopulaGAN_distribution.png](img/CopulaGAN_distribution.png)
 ![img.png](img/img.png)
 ![img.png](img/img2.png)
