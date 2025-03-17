@@ -28,6 +28,7 @@ We utilize two widely recognized software defect datasets in our study:
 ## Results
 ![partitioning_comp.png](img/partitioning_comp.png)
 ![CopulaGAN_distribution.png](img/CopulaGAN_distribution.png)
+![img.png](img/partitioning.png)
 ![img.png](img/img.png)
 ![img.png](img/img2.png)
 
